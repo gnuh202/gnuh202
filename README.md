@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./coding.gif" width="100"/>
+  <img src="./coding.gif" width="200"/>
   
   <div id="badges">
   <a href="your-linkedin-URL">
