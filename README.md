@@ -85,4 +85,7 @@ Designed and developed a power supply system to ensure operational recovery of a
   <p><em>Figure 7, 8: Central Onboard Processing Computer (COPC)</em></p>
 </div>
 
-
+<div align="center">
+  <img src="assets/FULL.jpg" width="350"/>
+  <p><em>Figure 9: Central Onboard Processing Computer (COPC)</em></p>
+</div>
