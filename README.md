@@ -58,43 +58,28 @@ Designed and developed a power supply system to ensure operational recovery of a
 
 ### :camera_flash: Project Gallery
 
-
-
 #### 🚀 Dự án 1: [Tên dự án 1]
 Mô tả ngắn gọn về dự án này.
 
-| <img src="assets/project1-1.png" width="400"/> | <img src="assets/project1-2.png" width="400"/> |
-|-----------------------------------------------|-----------------------------------------------|
-| *Ảnh 1: [Chú thích]*                          | *Ảnh 2: [Chú thích]*                          |
+<div align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="assets/project1-1.png" width="400"/>
+    <figcaption><em>Ảnh 1: Board mạch điều khiển</em></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="assets/project1-2.png" width="400"/>
+    <figcaption><em>Ảnh 2: Giao diện phần mềm</em></figcaption>
+  </figure>
+</div>
 
-| <img src="assets/project1-3.png" width="400"/> | <img src="assets/project1-4.png" width="400"/> |
-|-----------------------------------------------|-----------------------------------------------|
-| *Ảnh 3: [Chú thích]*                          | *Ảnh 4: [Chú thích]*                          |
-
-
-
-#### ⚡ Dự án 2: [Tên dự án 2]
-Mô tả ngắn gọn về dự án này.
-
-| <img src="assets/project2-1.png" width="400"/> | <img src="assets/project2-2.png" width="400"/> |
-|-----------------------------------------------|-----------------------------------------------|
-| *Ảnh 1: [Chú thích]*                          | *Ảnh 2: [Chú thích]*                          |
-
-| <img src="assets/project2-3.png" width="400"/> | <img src="assets/project2-4.png" width="400"/> |
-|-----------------------------------------------|-----------------------------------------------|
-| *Ảnh 3: [Chú thích]*                          | *Ảnh 4: [Chú thích]*                          |
-
-
-
-#### 🔧 Dự án 3: [Tên dự án 3]
-Mô tả ngắn gọn về dự án này.
-
-| <img src="assets/project3-1.png" width="400"/> | <img src="assets/project3-2.png" width="400"/> |
-|-----------------------------------------------|-----------------------------------------------|
-| *Ảnh 1: [Chú thích]*                          | *Ảnh 2: [Chú thích]*                          |
-
-| <img src="assets/project3-3.png" width="400"/> | <img src="assets/project3-4.png" width="400"/> |
-|-----------------------------------------------|-----------------------------------------------|
-| *Ảnh 3: [Chú thích]*                          | *Ảnh 4: [Chú thích]*                          |
-
+<div align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="assets/project1-3.png" width="400"/>
+    <figcaption><em>Ảnh 3: Thử nghiệm thực tế</em></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="assets/project1-4.png" width="400"/>
+    <figcaption><em>Ảnh 4: Kết quả đo kiểm</em></figcaption>
+  </figure>
+</div>
 
