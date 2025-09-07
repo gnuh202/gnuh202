@@ -111,7 +111,7 @@ Designed and developed a power supply system to ensure operational recovery of a
 </div>
 
 
-#### 5. Power Supply System:
+#### 5. Space Experiment System:
 Designed and developed a satellite with the function of measuring experimental samples in space:
 
 <div align="center">
