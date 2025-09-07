@@ -74,7 +74,7 @@ Redesigned the PCB layout of the original J-Link V9:
 <div align="center">
   <img src="assets/JLINK_A.jpg" width="350"/>
   <img src="assets/JLINK_R.jpg" width="350"/>
-  <p><em>Figure 1: Wireless Repeater Communication System</em></p>
+  <p><em>Figure 1, 2: JLINK V9</em></p>
 </div>
 
 
@@ -108,4 +108,32 @@ Designed and developed a power supply system to ensure operational recovery of a
 <div align="center">
   <img src="assets/FULL.jpg" width="350"/>
   <p><em>Figure 9: Central Onboard Processing Computer (COPC)</em></p>
+</div>
+
+
+#### 5. Power Supply System:
+Designed and developed a satellite with the function of measuring experimental samples in space:
+
+<div align="center">
+  <img src="assets/EXP_A.jpg" width="350"/>
+  <img src="assets/EXP_R.jpg" width="350"/>
+  <p><em>Figure 1, 2: Experiment Board (EXP)</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/PDA_A.jpg" width="350"/>
+  <img src="assets/PDA_R.jpg" width="350"/>
+  <p><em>Figure 3, 4: Photodiode Board (PDA)</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/LDA_A.jpg" width="350"/>
+  <img src="assets/LDA_R.jpg" width="350"/>
+  <p><em>Figure 3, 4: Laserdiode Board (LDA)</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/LDE_A.jpg" width="350"/>
+  <img src="assets/LDE_R.jpg" width="350"/>
+  <p><em>Figure 5, 6: Laserdiode External Board (LDE)</em></p>
 </div>
