@@ -65,8 +65,17 @@ and RS485 communication:
 
 <div align="center">
   <img src="assets/TELEGRAPH_A.png" width="350"/>
-  <img src="assets/TELEGRAPH_R.jpg" width="350"/>
+  <img src="assets/TELEGRAPH_R.png" width="350"/>
   <p><em>Figure 1, 2: Engine Order Telegraph (EOT)</em></p>
+</div>
+
+#### 2. Wireless Repeater Communication System:
+eveloped a system consisting of one transmitter, multiple intermediate repeaters, and a final receiver to display
+system status; used HC12 modules to overcome range limitations:
+
+<div align="center">
+  <img src="assets/REPEATER.png" width="350"/>
+  <p><em>Figure 1: Wireless Repeater Communication System</em></p>
 </div>
 
 
