@@ -70,7 +70,7 @@ and RS485 communication:
 </div>
 
 #### 2. Wireless Repeater Communication System:
-eveloped a system consisting of one transmitter, multiple intermediate repeaters, and a final receiver to display
+Developed a system consisting of one transmitter, multiple intermediate repeaters, and a final receiver to display
 system status; used HC12 modules to overcome range limitations:
 
 <div align="center">
@@ -78,7 +78,14 @@ system status; used HC12 modules to overcome range limitations:
   <p><em>Figure 1: Wireless Repeater Communication System</em></p>
 </div>
 
+#### 3. JLINK V9:
+Redesigned the PCB layout of the original J-Link V9:
 
+<div align="center">
+  <img src="assets/JLINK_A.jpg" width="350"/>
+  <img src="assets/JLINK_R.jpg" width="350"/>
+  <p><em>Figure 1: Wireless Repeater Communication System</em></p>
+</div>
 
 
 #### 3. Power Supply System:
