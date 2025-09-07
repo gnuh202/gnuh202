@@ -40,8 +40,8 @@
 <h1 align="center"></h1>
 
 ### :fire: My Stats :
-![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuh202&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnuh202&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gnuh202&show_icons=true&theme=radical" />
+</p>
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnuh202&show_icons=true&theme=radical)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gnuh202&theme=radical)](https://git.io/streak-stats)
