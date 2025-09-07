@@ -49,16 +49,6 @@
 
 ### :camera_flash: Project Gallery:
 
-#### Power Supply System:
-
-
-
-
-
-
-
-### :camera_flash: Project Gallery:
-
 #### 1. Engine Order Telegraph (EOT):
 Designed an EOT circuit to transmit commands from the Bridge to the Engine Room using AVR microcontroller
 and RS485 communication:
@@ -88,7 +78,7 @@ Redesigned the PCB layout of the original J-Link V9:
 </div>
 
 
-#### 3. Power Supply System:
+#### 4. Power Supply System:
 Designed and developed a power supply system to ensure operational recovery of a satellite payload after separation from the rocket and landing on the ground:
 
 <div align="center">
