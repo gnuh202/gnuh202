@@ -45,3 +45,35 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gnuh202&show_icons=true&theme=radical" />
 </p>
 
+### :camera_flash: Project Gallery
+
+---
+
+#### 🚀 Dự án 1: [Tên dự án 1]
+Mô tả ngắn gọn về dự án này (ví dụ: thiết kế mạch điều khiển, hệ thống IoT, phần mềm,...).
+
+<p align="center">
+  <img src="assets/project1-1.png" alt="Project 1 Image 1" width="400"/>
+  <img src="assets/project1-2.png" alt="Project 1 Image 2" width="400"/>
+</p>
+
+---
+
+#### ⚡ Dự án 2: [Tên dự án 2]
+Mô tả ngắn gọn về dự án này.
+
+<p align="center">
+  <img src="assets/project2-1.png" alt="Project 2 Image 1" width="400"/>
+  <img src="assets/project2-2.png" alt="Project 2 Image 2" width="400"/>
+</p>
+
+---
+
+#### 🔧 Dự án 3: [Tên dự án 3]
+Mô tả ngắn gọn về dự án này.
+
+<p align="center">
+  <img src="assets/project3-1.png" alt="Project 3 Image 1" width="400"/>
+  <img src="assets/project3-2.png" alt="Project 3 Image 2" width="400"/>
+</p>
+
