@@ -70,12 +70,12 @@ Designed and developed a power supply system to ensure operational recovery of a
 <div align="center">
   <img src="assets/PDU_A.png" width="350"/>
   <img src="assets/PDU_R.jpg" width="350"/>
-  <p><em>Figure 2, 3:  Power Distribution Unit (PDU)</em></p>
+  <p><em>Figure 3, 4:  Power Distribution Unit (PDU)</em></p>
 </div>
 
 <div align="center">
   <img src="assets/IOU_A.png" width="350"/>
-  <img src="assets/IOU_R.jpg" width="350"/>
-  <p><em>Figure 2, 3:  Power Distribution Unit (PDU)</em></p>
+  <img src="assets/IOU_R.png" width="350"/>
+  <p><em>Figure 5, 6:  I/O Unit (IOU)</em></p>
 </div>
 
