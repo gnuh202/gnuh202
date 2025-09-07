@@ -61,15 +61,28 @@ Designed and developed a power supply system to ensure operational recovery of a
 #### Power Supply System:
 Designed and developed a power supply system to ensure operational recovery of a satellite payload after separation from the rocket and landing on the ground:
 
-<div align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="assets/PMU_A.png" width="300"/>
-    <figcaption><em>Ảnh 1: Board mạch điều khiển</em></figcaption>
+<div align="center" style="display:flex; flex-wrap:wrap; gap:20px;">
+
+  <figure style="margin:10px;">
+    <img src="assets/PMU_A.png" width="350"/>
+    <figcaption align="center"><em>Ảnh 1: Board mạch điều khiển</em></figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="assets/PMU_R.jpg" width="300"/>
-    <figcaption><em>Ảnh 2: Giao diện phần mềm</em></figcaption>
+
+  <figure style="margin:10px;">
+    <img src="assets/PMU_R.jpg" width="350"/>
+    <figcaption align="center"><em>Ảnh 2: Giao diện phần mềm</em></figcaption>
   </figure>
+
+  <figure style="margin:10px;">
+    <img src="assets/project1-3.png" width="400"/>
+    <figcaption align="center"><em>Ảnh 3: Thử nghiệm thực tế</em></figcaption>
+  </figure>
+
+  <figure style="margin:10px;">
+    <img src="assets/project1-4.png" width="400"/>
+    <figcaption align="center"><em>Ảnh 4: Kết quả đo kiểm</em></figcaption>
+  </figure>
+
 </div>
 
 <div align="center">
