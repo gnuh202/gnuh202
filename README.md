@@ -63,11 +63,11 @@ Designed and developed a power supply system to ensure operational recovery of a
 
 <div align="center">
   <figure style="display:inline-block; margin:10px;">
-    <img src="assets/PMU_A.png" width="400"/>
+    <img src="assets/PMU_A.png" width="300"/>
     <figcaption><em>Ảnh 1: Board mạch điều khiển</em></figcaption>
   </figure>
   <figure style="display:inline-block; margin:10px;">
-    <img src="assets/PMU_R.jpg" width="400"/>
+    <img src="assets/PMU_R.jpg" width="300"/>
     <figcaption><em>Ảnh 2: Giao diện phần mềm</em></figcaption>
   </figure>
 </div>
