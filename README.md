@@ -62,27 +62,15 @@ Designed and developed a power supply system to ensure operational recovery of a
 Designed and developed a power supply system to ensure operational recovery of a satellite payload after separation from the rocket and landing on the ground:
 
 <div align="center">
-
   <img src="assets/PMU_A.png" width="350"/>
   <img src="assets/PMU_R.jpg" width="350"/>
-
-  <p><em>Figure 1: Power Management Unit (PMU)</em></p>
-
+  <p><em>Figure 1, 2: Power Management Unit (PMU)</em></p>
 </div>
-
-
-| <img src="assets/project1-3.png" width="400"/> | <img src="assets/project1-4.png" width="400"/> |
-|-----------------------------------------------|-----------------------------------------------|
-| *Ảnh 3: [Chú thích]*                          | *Ảnh 4: [Chú thích]*                          |
 
 <div align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="assets/project1-3.png" width="400"/>
-    <figcaption><em>Ảnh 3: Thử nghiệm thực tế</em></figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="assets/project1-4.png" width="400"/>
-    <figcaption><em>Ảnh 4: Kết quả đo kiểm</em></figcaption>
-  </figure>
+  <img src="assets/PDU_A.png" width="350"/>
+  <img src="assets/PDU_R.jpg" width="350"/>
+  <p><em>Figure 2, 3:  Power Distribution Unit (PDU)</em></p>
 </div>
+
 
