@@ -47,8 +47,6 @@
 
 ### :camera_flash: Project Gallery
 
----
-
 #### 🚀 Dự án 1: [Tên dự án 1]
 Mô tả ngắn gọn về dự án này (ví dụ: thiết kế mạch điều khiển, hệ thống IoT, phần mềm,...).
 
@@ -57,7 +55,6 @@ Mô tả ngắn gọn về dự án này (ví dụ: thiết kế mạch điều 
   <img src="assets/project1-2.png" alt="Project 1 Image 2" width="400"/>
 </p>
 
----
 
 #### ⚡ Dự án 2: [Tên dự án 2]
 Mô tả ngắn gọn về dự án này.
@@ -67,7 +64,6 @@ Mô tả ngắn gọn về dự án này.
   <img src="assets/project2-2.png" alt="Project 2 Image 2" width="400"/>
 </p>
 
----
 
 #### 🔧 Dự án 3: [Tên dự án 3]
 Mô tả ngắn gọn về dự án này.
