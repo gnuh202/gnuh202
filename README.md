@@ -56,18 +56,18 @@ Designed and developed a power supply system to ensure operational recovery of a
 
 
 
-### :camera_flash: Project Gallery
+### :camera_flash: Project Gallery:
 
-#### 🚀 Dự án 1: [Tên dự án 1]
-Mô tả ngắn gọn về dự án này.
+#### Power Supply System:
+Designed and developed a power supply system to ensure operational recovery of a satellite payload after separation from the rocket and landing on the ground:
 
 <div align="center">
   <figure style="display:inline-block; margin:10px;">
-    <img src="assets/project1-1.png" width="400"/>
+    <img src="assets/PMU_A.png" width="400"/>
     <figcaption><em>Ảnh 1: Board mạch điều khiển</em></figcaption>
   </figure>
   <figure style="display:inline-block; margin:10px;">
-    <img src="assets/project1-2.png" width="400"/>
+    <img src="assets/PMU_R.jpg" width="400"/>
     <figcaption><em>Ảnh 2: Giao diện phần mềm</em></figcaption>
   </figure>
 </div>
