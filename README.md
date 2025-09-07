@@ -58,12 +58,12 @@ Designed and developed a power supply system to ensure operational recovery of a
 
 ### :camera_flash: Project Gallery:
 
-#### Power Supply System:
+#### 1: Power Supply System:
 Designed and developed a power supply system to ensure operational recovery of a satellite payload after separation from the rocket and landing on the ground:
 
 | <img src="assets/PMU_A.png" width="350"/> | <img src="assets/PMU_R.jpg" width="350"/> |
 |-----------------------------------------------|-----------------------------------------------|
-| *Ảnh 1: [Chú thích]*                          | *Ảnh 2: [Chú thích]*                          |
+| *Figure 1: [ Power Management Unit (PMU)]*                              |
 
 | <img src="assets/project1-3.png" width="400"/> | <img src="assets/project1-4.png" width="400"/> |
 |-----------------------------------------------|-----------------------------------------------|
