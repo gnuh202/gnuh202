@@ -107,7 +107,7 @@ Designed and developed a power supply system to ensure operational recovery of a
 
 <div align="center">
   <img src="assets/FULL.jpg" width="350"/>
-  <p><em>Figure 9: Central Onboard Processing Computer (COPC)</em></p>
+  <p><em>Figure 9: Full system</em></p>
 </div>
 
 
@@ -136,4 +136,9 @@ Designed and developed a satellite with the function of measuring experimental s
   <img src="assets/LDE_A.jpg" width="350"/>
   <img src="assets/LDE_R.jpg" width="350"/>
   <p><em>Figure 5, 6: Laserdiode External Board (LDE)</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/FULL_1.jpg" width="350"/>
+  <p><em>Figure 7: Full system</em></p>
 </div>
