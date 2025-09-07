@@ -50,7 +50,8 @@
 ### :camera_flash: Project Gallery:
 
 #### Power Supply System:
-Designed and developed a power supply system to ensure operational recovery of a satellite payload after separation from the rocket and landing on the ground:
+
+
 
 
 
@@ -58,7 +59,20 @@ Designed and developed a power supply system to ensure operational recovery of a
 
 ### :camera_flash: Project Gallery:
 
-#### 1: Power Supply System:
+#### 1. Engine Order Telegraph (EOT):
+Designed an EOT circuit to transmit commands from the Bridge to the Engine Room using AVR microcontroller
+and RS485 communication:
+
+<div align="center">
+  <img src="assets/TELEGRAPH_A.png" width="350"/>
+  <img src="assets/TELEGRAPH_R.jpg" width="350"/>
+  <p><em>Figure 1, 2: Engine Order Telegraph (EOT)</em></p>
+</div>
+
+
+
+
+#### 3. Power Supply System:
 Designed and developed a power supply system to ensure operational recovery of a satellite payload after separation from the rocket and landing on the ground:
 
 <div align="center">
